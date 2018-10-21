@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="sarko.svg"
+   inkscape:version="0.47 r22583"
+   version="1.1"
+   id="svg2"
+   height="233.78802"
+   width="570.97095">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path5221"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5218"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect2827"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2825"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3657"
+       is_visible="true" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98999998"
+     inkscape:cx="277.47251"
+     inkscape:cy="140.97531"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1296"
+     inkscape:window-height="815"
+     inkscape:window-x="481"
+     inkscape:window-y="74"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-64.496682,-328.81366)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.70680088px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.90683,516.63141 500.28863,0"
+       id="path3625"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3625"
+       id="use3627"
+       width="744.09448"
+       height="1052.3622"
+       transform="translate(0,-33.152143)"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3627"
+       id="use3629"
+       width="744.09448"
+       height="1052.3622"
+       transform="translate(0,-33.152143)"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3629"
+       id="use3631"
+       width="744.09448"
+       height="1052.3622"
+       transform="translate(0,-33.152143)"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3631"
+       id="use3633"
+       width="744.09448"
+       height="1052.3622"
+       transform="translate(0,-33.152143)"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3635"
+       width="135.77289"
+       height="146.9281"
+       x="286.06509"
+       y="376.37289"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <rect
+       y="376.37289"
+       x="353.18805"
+       height="146.9281"
+       width="1.5269493"
+       id="rect2845"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <g
+       id="g5034"
+       inkscape:tile-cx="353.80791"
+       inkscape:tile-cy="399.90903"
+       inkscape:tile-w="489.23697"
+       inkscape:tile-h="10.256711"
+       inkscape:tile-x0="109.18943"
+       inkscape:tile-y0="394.78067"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321">
+      <g
+         transform="matrix(-1,0,0,1,707.61582,0)"
+         id="g4978">
+        <path
+           d="m 502.9923,399.90021 c -0.1481,1.87301 -2.36001,2.48046 -6.50318,2.35935 -2.61043,-0.0763 -4.80317,-1.39616 -4.42979,-2.51521 0.28113,-0.8426 2.96191,-1.81063 5.31838,-2.04762 4.02842,-0.40513 9.31706,0.43439 9.31706,2.20348"
+           style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path4980" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use4982"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use4984"
+           transform="translate(3.6692648,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use4986"
+           transform="translate(7.3385299,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use4988"
+           transform="translate(11.007795,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use4990"
+           transform="translate(14.67706,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use4992"
+           transform="translate(18.346325,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use4994"
+           transform="translate(22.01559,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use4996"
+           transform="translate(25.684854,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use4998"
+           transform="translate(29.354119,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5000"
+           transform="translate(33.023384,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5002"
+           transform="translate(36.692648,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5004"
+           transform="translate(40.361915,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5006"
+           transform="translate(44.03118,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5008"
+           transform="translate(47.700444,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5010"
+           transform="translate(51.369709,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5012"
+           transform="translate(55.038973,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5014"
+           transform="translate(58.708238,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5016"
+           transform="translate(62.377505,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5018"
+           transform="translate(66.046769,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5020"
+           transform="translate(69.716034,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5022"
+           transform="translate(73.385299,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5024"
+           transform="translate(77.054563,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5026"
+           transform="translate(80.723828,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5028"
+           transform="translate(84.393092,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5030"
+           transform="translate(88.062359,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="use5032"
+           transform="translate(91.731624,4.529875e-8)"
+           xlink:href="#path4110"
+           inkscape:tiled-clone-of="#path4110"
+           y="0"
+           x="0"
+           width="744.09448"
+           height="1052.3622" />
+      </g>
+      <g
+         id="g4949">
+        <path
+           id="path4110"
+           style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 502.9923,399.90021 c -0.1481,1.87301 -2.36001,2.48046 -6.50318,2.35935 -2.61043,-0.0763 -4.80317,-1.39616 -4.42979,-2.51521 0.28113,-0.8426 2.96191,-1.81063 5.31838,-2.04762 4.02842,-0.40513 9.31706,0.43439 9.31706,2.20348" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           id="use4840"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(3.6692648,4.529875e-8)"
+           id="use4842"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(7.3385299,4.529875e-8)"
+           id="use4844"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(11.007795,4.529875e-8)"
+           id="use4846"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(14.67706,4.529875e-8)"
+           id="use4848"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(18.346325,4.529875e-8)"
+           id="use4850"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(22.01559,4.529875e-8)"
+           id="use4852"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(25.684854,4.529875e-8)"
+           id="use4854"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(29.354119,4.529875e-8)"
+           id="use4856"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(33.023384,4.529875e-8)"
+           id="use4858"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(36.692648,4.529875e-8)"
+           id="use4860"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(40.361915,4.529875e-8)"
+           id="use4862"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(44.03118,4.529875e-8)"
+           id="use4864"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(47.700444,4.529875e-8)"
+           id="use4866"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(51.369709,4.529875e-8)"
+           id="use4868"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(55.038973,4.529875e-8)"
+           id="use4870"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(58.708238,4.529875e-8)"
+           id="use4872"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(62.377505,4.529875e-8)"
+           id="use4874"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(66.046769,4.529875e-8)"
+           id="use4876"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(69.716034,4.529875e-8)"
+           id="use4878"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(73.385299,4.529875e-8)"
+           id="use4880"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(77.054563,4.529875e-8)"
+           id="use4882"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(80.723828,4.529875e-8)"
+           id="use4884"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(84.393092,4.529875e-8)"
+           id="use4886"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(88.062359,4.529875e-8)"
+           id="use4888"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <use
+           height="1052.3622"
+           width="744.09448"
+           x="0"
+           y="0"
+           inkscape:tiled-clone-of="#path4110"
+           xlink:href="#path4110"
+           transform="translate(91.731624,4.529875e-8)"
+           id="use4890"
+           style="stroke:#000000;stroke-width:0.70866144;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="-501.17664"
+         x="394.78067"
+         height="294.45029"
+         width="10.256711"
+         id="rect3637"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+    <g
+       id="g5197"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321">
+      <use
+         id="use5189"
+         xlink:href="#g5034"
+         inkscape:tiled-clone-of="#g5034"
+         y="0"
+         x="0"
+         width="744.09448"
+         height="1052.3622" />
+      <use
+         id="use5191"
+         transform="translate(0,33.406108)"
+         xlink:href="#g5034"
+         inkscape:tiled-clone-of="#g5034"
+         y="0"
+         x="0"
+         width="744.09448"
+         height="1052.3622" />
+      <use
+         id="use5193"
+         transform="translate(0,66.812215)"
+         xlink:href="#g5034"
+         inkscape:tiled-clone-of="#g5034"
+         y="0"
+         x="0"
+         width="744.09448"
+         height="1052.3622" />
+      <use
+         id="use5195"
+         transform="translate(0,100.21832)"
+         xlink:href="#g5034"
+         inkscape:tiled-clone-of="#g5034"
+         y="0"
+         x="0"
+         width="744.09448"
+         height="1052.3622" />
+    </g>
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.70680088px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2839"
+       width="10.106841"
+       height="146.75784"
+       x="99.853401"
+       y="376.45801"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.70680088px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2847"
+       width="10.106841"
+       height="146.75784"
+       x="597.94275"
+       y="376.45801"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="78.567429"
+       y="340.96991"
+       id="text5209"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321"><tspan
+         sodipodi:role="line"
+         id="tspan5211"
+         x="78.567429"
+         y="340.96991">Dysk Z</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);display:inline"
+       d="m 104.96718,376.45801 0.0274,-33.34537"
+       id="path5213"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#rect2839"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <text
+       id="text5663"
+       y="340.96991"
+       x="324.98343"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321"><tspan
+         y="340.96991"
+         x="324.98343"
+         sodipodi:role="line"
+         id="tspan5667">Linia M</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);display:inline"
+       d="m 354.17062,376.37289 0.0971,-32.546"
+       id="path5679"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#rect2845"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="457.8338"
+       y="350.25513"
+       id="text5865"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321"><tspan
+         sodipodi:role="line"
+         x="457.8338"
+         y="350.25513"
+         id="tspan5869">Aktyna</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 483.54677,380.96785 -0.71425,-27.85572"
+       id="path5873"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <text
+       id="text6059"
+       y="352.39792"
+       x="236.41653"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321"><tspan
+         id="tspan6061"
+         y="352.39792"
+         x="236.41653"
+         sodipodi:role="line">Miozyna</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95587409px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 311.43475,393.13216 -21.4716,-36.47084"
+       id="path6063"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-mid:none;marker-end:url(#Arrow1Lend)"
+       d="m 204.98955,534.53145 297.1277,0"
+       id="path6249"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="317.12668"
+       y="551.67346"
+       id="text6995"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321"><tspan
+         sodipodi:role="line"
+         x="317.12668"
+         y="551.67346"
+         id="tspan6999">Pasmo A</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 497.83175,558.10168 137.13587,0"
+       id="path7003"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <text
+       id="text7191"
+       y="545.95947"
+       x="519.97345"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321"><tspan
+         y="545.95947"
+         x="519.97345"
+         sodipodi:role="line"
+         id="tspan7195">Pasmo I</tspan></text>
+    <path
+       inkscape:connector-type="polyline"
+       id="path7199"
+       d="m 202.13255,558.10168 -137.135868,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="112.85136"
+       y="545.24524"
+       id="text7201"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321"><tspan
+         sodipodi:role="line"
+         x="112.85136"
+         y="565.24524"
+         id="tspan2915">Pasmo I</tspan></text>
+    <text
+       id="text7205"
+       y="352.39789"
+       x="153.56361"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'"
+       xml:space="preserve"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321"><tspan
+         y="352.39789"
+         x="153.56361"
+         sodipodi:role="line"
+         id="tspan7209">Tytyna</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 166.42008,399.53833 9.99949,-42.1407"
+       id="path7213"
+       inkscape:connector-type="polyline"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/rys/sarko.png"
+       inkscape:export-xdpi="180.16321"
+       inkscape:export-ydpi="180.16321" />
+  </g>
+</svg>

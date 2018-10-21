@@ -1,0 +1,60 @@
+
+               NODE (s)   Real (s)      (%)
+       Time:  32328.530  32335.892    100.0
+                       8h58:48
+               (Mnbf/s)   (GFlops)   (ns/day)  (hour/ns)
+Performance:     73.432      3.874      0.535     44.900
+Finished mdrun on node 0 Fri Apr 22 20:42:23 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench/proc1$ cd ..
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc1/pull.log
+Performance:     73.432      3.874      0.535     44.900
+Finished mdrun on node 0 Fri Apr 22 20:42:23 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc2/pull.log
+Performance:    166.718      8.785      1.214     19.772
+Finished mdrun on node 0 Sat Apr 23 00:39:45 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc3/pull.log
+Performance:    245.259     12.915      1.785     13.444
+Finished mdrun on node 0 Sat Apr 23 03:21:12 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc4/pull.log
+Performance:    320.266     16.865      2.332     10.291
+Finished mdrun on node 0 Sat Apr 23 05:24:49 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc5/pull.log
+Performance:    383.027     20.194      2.789      8.606
+Finished mdrun on node 0 Sat Apr 23 07:08:13 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc6/pull.log
+Performance:    454.605     23.934      3.310      7.251
+Finished mdrun on node 0 Sat Apr 23 08:35:21 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc7/pull.log
+Performance:    519.185     27.299      3.780      6.349
+Finished mdrun on node 0 Sat Apr 23 09:51:41 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc8/pull.log
+Performance:    584.919     30.749      4.258      5.637
+Finished mdrun on node 0 Sat Apr 23 10:59:27 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc9/pull.log
+Performance:    532.106     28.004      3.874      6.196
+Finished mdrun on node 0 Sat Apr 23 12:13:56 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc10/pull.log
+Performance:    598.286     31.541      4.356      5.510
+Finished mdrun on node 0 Sat Apr 23 13:20:11 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc11/pull.log
+Performance:    631.148     33.228      4.594      5.224
+Finished mdrun on node 0 Sat Apr 23 14:23:00 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc12/pull.log
+Performance:    619.277     32.601      4.509      5.323
+Finished mdrun on node 0 Sat Apr 23 15:27:00 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc13/pull.log
+Performance:    620.110     32.659      4.515      5.316
+Finished mdrun on node 0 Sat Apr 23 16:30:56 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc14/pull.log
+Performance:    754.655     39.757      5.495      4.368
+Finished mdrun on node 0 Sat Apr 23 17:23:28 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc15/pull.log
+Performance:    716.773     37.773      5.218      4.600
+Finished mdrun on node 0 Sat Apr 23 18:18:48 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ tail -n2 proc16/pull.log
+Performance:    759.580     39.968      5.530      4.340
+Finished mdrun on node 0 Sat Apr 23 19:11:00 2011
+mateusz@mateusz-desktop:~/klustek/1TKI/bench$ 
+
+v_PME=[0.535 , 1.214 , 1.785, 2.332, 2.789, 3.310, 3.780, 4.258, 3.874, 4.356, 4.594 , 4.509 , 4.515, 5.495, 5.218, 5.530]
+

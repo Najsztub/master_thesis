@@ -1,0 +1,104 @@
+ \documentclass[12pt,twoside]{report}
+\usepackage{multirow}
+\usepackage{url}
+\usepackage{cite}
+\usepackage{verbatim}
+\usepackage{amssymb} 
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{dirtree}
+%\selectlanguage{polish}
+\usepackage[OT4]{polski}
+\usepackage[table]{xcolor}
+%\usepackage{parskip}
+\usepackage[a4paper,left=3.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+%\frenchspacing
+\setlength{\textwidth}{150mm} \setlength{\textheight}{220mm}
+\usepackage{setspace}
+\linespread{1.5}
+%\setlength{\parskip}{0pt}
+
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{gray}{gray}{0.5}
+\definecolor{green}{rgb}{0,0.5,0}
+\definecolor{yellow}{rgb}{0.7,0.7,0}
+\definecolor{purple}{rgb}{0.5,0,0.5}
+\definecolor{PaleGreen}{rgb}{0.85,1,0.8}
+\definecolor{PaleYellow}{rgb}{1,1,0.8}
+
+
+\lstset{
+language=python,
+captionpos=t,
+basicstyle=\ttfamily\footnotesize,
+breaklines=true,
+stringstyle=\color{red},
+showstringspaces=false,
+alsoletter={1234567890},
+numberstyle=\footnotesize\color{green},
+numbers=left,
+stepnumber=1,
+emph={access,and,assert,break,class,continue,def,del,elif,else,%
+except,exec,finally,for,from,global,if,in,is,%
+lambda,not,or,pass,print,raise,return,try,while},
+emphstyle=\color{purple}\bfseries,
+emph={[2]True, False, None, self},
+emphstyle=[2]\color{green},
+emph={[3]from, import, as},
+emphstyle=[3]\color{magenta},
+morecomment=[s]{"""}{"""},
+commentstyle=\color{gray}\slshape,
+emph={[4]1, 2, 3, 4, 5, 6, 7, 8, 9, 0},
+emphstyle=[4]\color{yellow},
+emph={[5]set, range, len, file, str, int, float, reload, min, max},
+emphstyle=[5]\color{blue}
+}
+
+\providecommand{\e}[1]{\ensuremath{\times 10^{#1}}}
+
+\begin{document}
+\bibliographystyle{plunsrt}
+\input{title}
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\setlength{\parskip}{0ex plus 0.5ex minus 0.2ex}
+\input{podziekowania}
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\setlength{\parskip}{0ex plus 0.5ex minus 0.2ex}
+\tableofcontents
+\renewcommand{\figurename}{Rys.}
+\addcontentsline{toc}{chapter}{Spis rysunków}
+\listoffigures
+\clearpage
+\input{wstep}
+\input{wprowadzenie}
+\input{cel}
+\input{met}
+\input{analiza}
+\input{wnioski}
+\clearpage
+\addcontentsline{toc}{chapter}{Bibliografia}
+\newpage
+\bibliography{b}
+\newpage 
+\clearpage
+\addcontentsline{toc}{chapter}{Dodatek A. Spis zawartości dołączonej płyty CD}
+\input{plyta}
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
+\input{oswiadczenie}
+
+\end{document}

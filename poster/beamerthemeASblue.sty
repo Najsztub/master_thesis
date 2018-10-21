@@ -1,0 +1,128 @@
+\ProvidesPackage{beamerthemeASblue} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\selectcolormodel{cmyk}
+\mode<presentation>
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% custom colors
+%\definecolor{ASblue}{cmyk}{0.9,0.8,0,0}
+\definecolor{ASblue}{cmyk}{0.75,0,0.75,0.45}
+%\definecolor{ASlightblue}{cmyk}{0.25,0,0,0}
+\definecolor{ASlightblue}{cmyk}{0.11,0,0.11,0}
+\definecolor{ASblack}{rgb}{0,0,0}
+%\definecolor{AScyan}
+
+% headline colors and fonts
+\setbeamercolor{headline}{fg=white,bg=ASblue}
+\setbeamercolor{title in headline}{fg=white}
+\setbeamercolor{author in headline}{fg=ASlightblue}
+\setbeamercolor{institute in headline}{fg=ASlightblue}
+\setbeamercolor{logo in headline}{fg=ASblack,bg=ASlightblue}
+\setbeamercolor{separation line}{bg=ASlightblue}
+
+% footline colors and fonts
+\setbeamercolor{footline}{fg=white,bg=ASblue}
+\setbeamerfont{footline}{fg=white, size=\large}
+
+% body colors and fonts
+\setbeamercolor*{normal text}{fg=white,bg=ASblack}
+
+\setbeamercolor{bibliography entry author}{use=structure,fg=black}
+\setbeamercolor{bibliography entry title}{use=normal text,fg=normal text.fg}
+\setbeamercolor{bibliography entry location}{use=structure,fg=black}
+%\setbeamercolor{bibliography entry note}{use=structure,fg=structure.fg!65!bg}
+
+% block environment
+\setbeamercolor*{block body}{bg=white,fg=ASblack}
+\setbeamercolor*{block title}{fg=ASlightblue,bg=ASblue}
+\setbeamerfont{block title}{size=\LARGE,series=\bf}
+
+\setbeamertemplate{enumerate items}[ball]
+\setbeamertemplate{itemize items}[ball]
+\setbeamertemplate{navigation symbols}{}  % no navigation on a poster
+\setbeamertemplate{bibliography item}[text]
+\setbeamercolor{bibliography item}{fg = ASblue}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \setbeamertemplate{block begin}{
+%   \vskip.75ex
+%   \begin{beamercolorbox}[leftskip=1cm,colsep*=.75ex]{block title}%
+%     \usebeamerfont*{block title}\insertblocktitle
+%   \end{beamercolorbox}%
+% % \begin{beamercolorbox}[wd=\linewidth]{separation line}
+% %     \rule{0pt}{2pt}
+% %   \end{beamercolorbox}
+%   {\ifbeamercolorempty[bg]{block body}{}{\nointerlineskip\vskip-0.5pt}}%
+%   \usebeamerfont{block body}%
+%   \begin{beamercolorbox}[colsep*=.75ex,sep=.75ex,vmode]{block body}%
+%     \ifbeamercolorempty[bg]{block body}{\vskip-.25ex}{\vskip-.75ex}\vbox{}%
+%   }
+%   \setbeamertemplate{block end}{
+%   \end{beamercolorbox}
+% }
+\setbeamertemplate{blocks}[rounded]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setbeamertemplate{headline}{  
+  \leavevmode
+
+  \begin{beamercolorbox}[wd=\paperwidth]{headline}
+    \begin{columns}[T]
+%       \begin{column}{.02\paperwidth}
+%       \end{column}
+%       \begin{column}{.07\paperwidth}
+%         \begin{center}
+%           %\includegraphics[width=.6\linewidth]{logos/i6-hks44}
+%         \end{center}
+%         \vskip1ex
+%       \end{column}
+      \begin{column}{.2\paperwidth}
+\vskip1cm
+       \centering
+	\includegraphics[height = 10 cm]{najsztub.jpg}
+      %\includegraphics[width=.4\linewidth]{najsztub.jpg}
+      \end{column}
+
+      \begin{column}{.6\paperwidth}
+        \vskip6ex
+        \raggedright
+        \usebeamercolor{title in headline}{\color{fg}\textbf{\huge{\inserttitle}}\\[5ex]}
+	\raggedleft
+        \usebeamercolor{author in headline}{\color{fg}\LARGE{\insertauthor}\\[2ex]}
+        \usebeamercolor{institute in headline}{\color{fg}\LARGE{\insertinstitute}\\[2ex]}     
+      \end{column}
+      \begin{column}{.2\paperwidth}
+        \vskip1cm
+        \begin{center}
+         % \includegraphics[width=.4\linewidth]{uam.jpeg}
+	   \includegraphics[height = 10 cm]{uam.jpeg}
+        \end{center}
+        \vskip1.5cm
+      \end{column}
+%       \begin{column}{.1\paperwidth}
+%       \end{column}
+    \end{columns}
+  \end{beamercolorbox}
+  
+  \begin{beamercolorbox}[wd=\paperwidth]{lower separation line head}
+    \rule{0pt}{2pt}
+  \end{beamercolorbox}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setbeamertemplate{footline}{
+
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mode<all>
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "poster"
+%%% TeX-PDF-mode: t
+%%% End: 

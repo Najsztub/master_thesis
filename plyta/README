@@ -1,0 +1,40 @@
+Tytuł: Odzyskiwanie parametrów kinetycznych rozplatania kinazy tytyny z symulacji dynamiki molekularnej
+Autor: Mateusz Najsztub
+
+Płyta ta zawiera pracę magisterską oraz wszelkie pliki niezbędne do powtórzenia symulacji w niej przedstawionych. W przypadku użycia znajdujących się na niej materiałów do dalszej pracy i ewentualnych pytań i wątpliwości proszę się kontaktować pod adresem:
+mateusz.najsztub@gmail.com
+
+ZAWARTOŚC PŁYTY:
+
+Katalog główny
+praca.pdf - Praca magisterska
+smooth.py - Skrypt Pythona odpowiedzialny za wygładzanie
+fit_polaczone.py - Skrypt Pythona odpowiedzialny za dopasowanie modelu
+Hummera-Szabo do danych
+README - Plik z opisem zawartosci płyty
+pliki_Gromacs - Katalog z plikami potrzebnymi do przeprowadzenia symulacji
+-polecenia - Spis polecen Gromacsa uzywanych przy symulacji
+-1TKI.pdb - Oryginalny plik PDB z bazy danych
+-hadded.pdb - Plik PDB po operacjach programem WHATIF
+-rot.py - Skrypt Pythona do obliczania katów przy obracaniu białka
+-hosts - Plik z adresami hostów dla OpenMPI
+-topol.top - Plik topologii
+-*.mdp - Pliki z parametrami dla równowagowania
+-p50 - parametry i podsumowanie dla v=50 nm/ns
+--pull.mdp - Parametry dla rozciagania
+--md.log - Informacje na temat symulacji
+-p10 - parametry i podsumowanie dla v=10 nm/ns
+--pull.mdp - Parametry dla rozciagania
+--md.log - Informacje na temat symulacji
+-p5 - parametry i podsumowanie dla v=5 nm/ns
+--pull.mdp - Parametry dla rozciagania
+--md.log - Informacje na temat symulacji
+-p2 - parametry i podsumowanie dla v=2 nm/ns
+--pull.mdp - Parametry dla rozciagania
+--md.log - Informacje na temat symulacji
+-p0.8 - parametry i podsumowanie dla v=0.8 nm/ns
+--pull.mdp - Parametry dla rozciagania
+--md.log - Informacje na temat symulacji
+-p0.4 - parametry i podsumowanie dla v=0.4 nm/ns
+--pull.mdp - Parametry dla rozciagania
+--md.log - Informacje na temat symulacji

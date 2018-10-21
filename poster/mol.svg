@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1005.98"
+   height="726.98999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="mol.svg"
+   inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2902"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="596.22782"
+     inkscape:cy="389.65458"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1382"
+     inkscape:window-height="963"
+     inkscape:window-x="536"
+     inkscape:window-y="61"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(111.59545,-243.15547)">
+    <image
+       y="395.50439"
+       x="-266.05667"
+       id="image2904"
+       height="618"
+       width="854"
+       xlink:href="file:///home/mateusz/Desktop/praca/poster/ren.png"
+       transform="matrix(0.95570181,-0.29433662,0.29433662,0.95570181,0,0)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2908"
+       sodipodi:cx="691.4494"
+       sodipodi:cy="421.52191"
+       sodipodi:rx="19.697975"
+       sodipodi:ry="19.697975"
+       d="m 711.14738,421.52191 a 19.697975,19.697975 0 1 1 -39.39595,0 19.697975,19.697975 0 1 1 39.39595,0 z"
+       transform="matrix(0.95570181,-0.29433662,0.29433662,0.95570181,-163.63769,219.94858)"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c90000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3682"
+       sodipodi:cx="246.47722"
+       sodipodi:cy="275.55487"
+       sodipodi:rx="19.192898"
+       sodipodi:ry="19.192898"
+       d="m 265.67012,275.55487 a 19.192898,19.192898 0 1 1 -38.3858,0 19.192898,19.192898 0 1 1 38.3858,0 z"
+       transform="matrix(0.95570181,-0.29433662,0.29433662,0.95570181,-153.90661,227.52135)"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 765.53829,422.58753 c 2.5109,0.0548 1.56294,2.88653 -0.0956,3.49157 -2.50125,0.91254 -4.91785,-1.2562 -5.36963,-3.61168 -0.65486,-3.41424 2.07818,-6.40887 5.27736,-6.77124 4.04504,-0.45821 7.49254,2.97772 7.61372,7.04748 0.14483,4.86381 -4.12984,8.97059 -9.19368,9.23116 -5.8762,0.30237 -10.82975,-4.27709 -11.52511,-9.69802 -0.78382,-6.11064 3.75184,-11.20407 9.14044,-11.42982 5.91327,-0.24778 10.77519,5.28153 10.10254,11.82037 -0.73558,7.15072 -7.66421,13.07695 -15.82018,13.19945 -8.88911,0.13354 -16.34253,-6.34419 -17.81903,-13.98305 -1.58798,-8.21562 3.87534,-15.00207 10.3863,-15.16273 6.87939,-0.16975 12.4332,7.04519 10.63714,15.54911 -1.90794,9.03368 -11.44033,16.47386 -22.59308,16.48621 -11.83637,0.0131 -21.76353,-8.0792 -24.23449,-17.60474 -2.60289,-10.03407 3.46125,-18.29855 10.73147,-18.4194 7.59053,-0.12616 13.65213,8.5507 10.86935,18.77393 -2.90991,10.69028 -14.62967,19.48251 -28.27634,19.41042 -14.21833,-0.0751 -26.11449,-9.5872 -29.08314,-20.79189 -3.08529,-11.64505 4.02348,-21.2385 12.57262,-21.31074 8.94492,-0.0756 16.12566,9.93573 13.32923,21.74753 -2.89269,12.21828 -15.66311,22.27944 -30.49778,22.16719 -15.20478,-0.11506 -27.82227,-10.89334 -29.911,-23.59603 -2.15181,-13.0863 7.24736,-23.86578 18.47802,-23.85283 11.79178,0.0136 21.43905,11.31334 20.30579,24.62715 -1.16619,13.70048 -13.35035,24.97297 -27.54422,24.87601 -7.19717,-0.0492 -14.12263,-3.07759 -18.93522,-8.23425"
+       id="path3690"
+       sodipodi:nodetypes="csssssssssssssssssssssssssc"
+       inkscape:transform-center-y="-17.861391"
+       inkscape:transform-center-x="4.1644202"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       inkscape:transform-center-x="-4.2255777"
+       inkscape:transform-center-y="-17.475233"
+       sodipodi:nodetypes="csssssssssssssssssssssssssc"
+       id="path3693"
+       d="m 15.736523,416.1849 c -2.511251,0.0358 -1.584726,2.87462 0.06911,3.49219 2.494285,0.93144 4.927207,-1.21895 5.396794,-3.57096 0.680658,-3.40918 -2.029644,-6.42439 -5.225997,-6.81097 -4.041448,-0.48879 -7.5148412,2.92098 -7.6668182,6.9897 -0.1816,4.86257 4.0618892,9.00157 9.1236082,9.30043 5.873749,0.34682 10.861789,-4.19504 11.598131,-9.61056 0.830021,-6.10454 -3.666986,-11.23212 -9.053739,-11.49863 -5.911218,-0.29249 -10.8148102,5.1999 -10.1916462,11.74361 0.6814782,7.15608 7.5650842,13.13454 15.7198962,13.31874 8.887856,0.20077 16.390044,-6.22039 17.924281,-13.84787 1.650077,-8.20338 -3.761768,-15.03096 -10.271315,-15.24087 -6.877913,-0.22176 -12.48614,6.95095 -10.754453,15.46823 1.839568,9.04785 11.315408,16.5599 22.467736,16.65662 11.835959,0.10262 21.824032,-7.91436 24.366961,-17.42094 2.678702,-10.0141 -3.32275,-18.32421 -10.591848,-18.50003 -7.589358,-0.1836 -13.716416,8.44718 -11.011027,18.69117 2.828973,10.71198 14.481889,19.5926 28.128717,19.62374 14.21849,0.0325 26.186256,-9.38941 29.239556,-20.57133 3.1733,-11.62138 -3.86272,-21.26833 -12.411056,-21.40523 -8.94411,-0.14323 -16.20036,9.81349 -13.49334,21.64609 2.80019,12.23981 15.49415,22.39729 30.329236,22.39724 15.20522,-5e-5 27.90387,-10.68259 30.08861,-23.36912 2.25074,-13.06965 -7.06663,-23.91992 -18.29706,-23.99191 -11.79156,-0.0756 -21.524006,11.15087 -20.49148,24.47287 1.06251,13.7089 13.16107,25.07323 27.35526,25.08362 7.19735,0.005 14.14552,-2.97068 18.99697,-8.09079"
+       style="fill:none;stroke:#000000;stroke-width:3.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <g
+       id="g3699"
+       transform="matrix(0.99991359,0.01314511,-0.01314511,0.99991359,371.34528,277.12728)"
+       inkscape:transform-center-x="41.277707"
+       inkscape:transform-center-y="15.030206"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         d="m 507.1206,141.20459 -15.92793,9.196 -15.92793,9.19599 0,-18.39199 0,-18.39199 15.92793,9.19599 15.92793,9.196 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0"
+         sodipodi:r2="10.618621"
+         sodipodi:r1="21.237242"
+         sodipodi:cy="141.20459"
+         sodipodi:cx="485.88336"
+         sodipodi:sides="3"
+         id="path3695"
+         style="fill:#c90000;fill-opacity:1;stroke:#000000;stroke-width:3.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+      <rect
+         y="137.66905"
+         x="397.24246"
+         height="7.0710678"
+         width="77.781746"
+         id="rect3697"
+         style="fill:#c90000;fill-opacity:1;stroke:#000000;stroke-width:3.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       inkscape:transform-center-x="-41.144075"
+       transform="matrix(-0.99998686,-0.00512487,0.00512487,-0.99998686,411.16702,561.17165)"
+       id="g3703"
+       inkscape:transform-center-y="-15.175469"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         sodipodi:type="star"
+         style="fill:#c90000;fill-opacity:1;stroke:#000000;stroke-width:3.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3705"
+         sodipodi:sides="3"
+         sodipodi:cx="485.88336"
+         sodipodi:cy="141.20459"
+         sodipodi:r1="21.237242"
+         sodipodi:r2="10.618621"
+         sodipodi:arg1="0"
+         sodipodi:arg2="1.0471976"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 507.1206,141.20459 -15.92793,9.196 -15.92793,9.19599 0,-18.39199 0,-18.39199 15.92793,9.19599 15.92793,9.196 z" />
+      <rect
+         style="fill:#c90000;fill-opacity:1;stroke:#000000;stroke-width:3.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3707"
+         width="77.781746"
+         height="7.0710678"
+         x="397.24246"
+         y="137.66905" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-36.365494"
+       y="403.84427"
+       id="text2828"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan2830"
+         x="-36.365494"
+         y="403.84427">F</tspan></text>
+    <text
+       id="text2832"
+       y="409.90518"
+       x="802.0611"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/mateusz/Desktop/praca/poster/mol.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         y="409.90518"
+         x="802.0611"
+         id="tspan2834"
+         sodipodi:role="line">F</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,549 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.3.7)  9 MAR 2011 14:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**title.tex
+(./title.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, polish, loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+
+! LaTeX Error: Environment Large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{Large}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.5 \sc
+       {Wydzia≈Ç Chemii Uniwersytetu im. Adama Mickiewicza w Poznaniu}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no W in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ≈ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no u in font nullfont!
+
+! LaTeX Error: \begin{center} on input line 3 ended by \end{Large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \end{Large}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment Large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \begin{Large}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.10 \sc
+        {Zak≈Çad Chemii Fizycznej}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ≈ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no j in font nullfont!
+
+! LaTeX Error: \begin{center} on input line 8 ended by \end{Large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \end{Large}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment huge undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \begin{huge}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no ≈ in font cmbx10!
+Missing character: There is no Ç in font cmbx10!
+Missing character: There is no ≈ in font cmbx10!
+Missing character: There is no õ in font cmbx10!
+Missing character: There is no √ in font cmbx10!
+Missing character: There is no ≥ in font cmbx10!
+Missing character: There is no √ in font cmbx10!
+Missing character: There is no ≥ in font cmbx10!
+Missing character: There is no ≈ in font cmbx10!
+Missing character: There is no Ç in font cmbx10!
+
+! LaTeX Error: \begin{center} on input line 14 ended by \end{huge}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \end{huge}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (65.71489pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 Wyznaczanie 
+ []
+
+
+Overfull \hbox (23.38318pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 staej 
+ []
+
+
+Overfull \hbox (19.54988pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 szy- 
+ []
+
+
+Overfull \hbox (26.51375pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 bkoci 
+ []
+
+
+Overfull \hbox (18.95131pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 zer- 
+ []
+
+
+Overfull \hbox (17.4096pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 wa- 
+ []
+
+
+Overfull \hbox (15.17351pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 nia 
+ []
+
+
+Overfull \hbox (11.97908pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 na 
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 pod- 
+ []
+
+
+Overfull \hbox (31.0498pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 stawie 
+ []
+
+
+Overfull \hbox (24.59705pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 anal- 
+ []
+
+
+Overfull \hbox (14.37492pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 izy 
+ []
+
+
+Overfull \hbox (38.33313pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 wynikw 
+ []
+
+
+Overfull \hbox (30.09149pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 symu- 
+ []
+
+
+Overfull \hbox (20.60403pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 lacji 
+ []
+
+
+Overfull \hbox (21.18738pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 oraz 
+ []
+
+
+Overfull \hbox (42.49423pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 ekspery- 
+ []
+
+
+Overfull \hbox (33.38177pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 mentw 
+ []
+
+
+Overfull \hbox (26.84708pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 AFM 
+ []
+
+
+Overfull \hbox (15.17351pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 dla 
+ []
+
+
+Overfull \hbox (34.81926pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 moduu 
+ []
+
+
+Overfull \hbox (14.05548pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 ty- 
+ []
+
+
+Overfull \hbox (22.361pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 tyny 
+ []
+
+
+Overfull \hbox (15.86102pt too wide) in paragraph at lines 17--19
+ \OT1/cmr/bx/n/10 I27 
+ []
+
+
+! LaTeX Error: Environment Large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \begin{Large}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{center} on input line 22 ended by \end{Large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \end{Large}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (42.28586pt too wide) in paragraph at lines 24--26
+ \OT1/cmr/bx/n/10 Mateusz 
+ []
+
+
+Overfull \hbox (18.4235pt too wide) in paragraph at lines 24--26
+ \OT1/cmr/bx/n/10 Na- 
+ []
+
+
+Overfull \hbox (16.99434pt too wide) in paragraph at lines 24--26
+ \OT1/cmr/bx/n/10 jsz- 
+ []
+
+
+Overfull \hbox (17.24991pt too wide) in paragraph at lines 24--26
+ \OT1/cmr/bx/n/10 tub 
+ []
+
+
+! LaTeX Error: Environment large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \begin{large}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (24.7998pt too wide) in paragraph at lines 31--31
+ \OT1/cmr/m/it/10 Praca 
+ []
+
+
+Overfull \hbox (21.46652pt too wide) in paragraph at lines 31--31
+ \OT1/cmr/m/it/10 mag- 
+ []
+
+
+Overfull \hbox (10.73326pt too wide) in paragraph at lines 31--31
+ \OT1/cmr/m/it/10 is- 
+ []
+
+
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 31--31
+ \OT1/cmr/m/it/10 ter- 
+ []
+
+
+Overfull \hbox (13.79991pt too wide) in paragraph at lines 31--31
+ \OT1/cmr/m/it/10 ska 
+ []
+
+
+Overfull \hbox (14.311pt too wide) in paragraph at lines 31--31
+ \OT1/cmr/m/it/10 pod 
+ []
+
+
+Overfull \hbox (35.64973pt too wide) in paragraph at lines 31--31
+ \OT1/cmr/m/it/10 kierunk- 
+ []
+
+
+Overfull \hbox (15.84435pt too wide) in paragraph at lines 31--31
+ \OT1/cmr/m/it/10 iem 
+ []
+
+
+! LaTeX Error: \begin{center} on input line 28 ended by \end{large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \end{large}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.06097pt too wide) in paragraph at lines 31--33
+ []\OT1/cmr/m/it/10 prof. 
+ []
+
+
+Overfull \hbox (9.32771pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/it/10 dr 
+ []
+
+
+Overfull \hbox (17.88878pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/it/10 hab. 
+ []
+
+
+Overfull \hbox (16.37766pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/it/10 An- 
+ []
+
+
+Overfull \hbox (26.19427pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/it/10 drzeja 
+ []
+
+
+Overfull \hbox (20.21098pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/it/10 Mol- 
+ []
+
+
+Overfull \hbox (26.18658pt too wide) in paragraph at lines 31--33
+ \OT1/cmr/m/it/10 skiego 
+ []
+
+! Undefined control sequence.
+l.36 {\large
+            {\textbf{Pozna≈Ñ \today r.}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ≈ in font cmbx10!
+Missing character: There is no Ñ in font cmbx10!
+! Undefined control sequence.
+<argument> Pozna≈Ñ \today 
+                          r.
+l.36 {\large{\textbf{Pozna≈Ñ \today r.}
+                                       }}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (30.38176pt too wide) in paragraph at lines 36--37
+ \OT1/cmr/bx/n/10 Pozna 
+ []
+
+
+Overfull \hbox (7.93053pt too wide) in paragraph at lines 36--37
+ \OT1/cmr/bx/n/10 r. 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> title.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 17 strings out of 495026
+ 224 string characters out of 1181803
+ 47141 words of memory out of 3000000
+ 3296 multiletter control sequences out of 15000+50000
+ 4294 words of font info for 16 fonts, out of 3000000 for 9000
+ 48 hyphenation exceptions out of 8191
+ 13i,1n,10p,165b,137s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

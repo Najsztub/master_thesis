@@ -1,0 +1,33 @@
+\select@language {polish}
+\contentsline {chapter}{Spis rysunk\IeC {\'o}w}{6}
+\contentsline {chapter}{\numberline {1}Wst\IeC {\k e}p}{9}
+\contentsline {chapter}{\numberline {2}Wprowadzenie}{11}
+\contentsline {section}{\numberline {2.1}Tytyna}{11}
+\contentsline {section}{\numberline {2.2}AFM}{13}
+\contentsline {section}{\numberline {2.3}Symulacje dynamiki molekularnej}{14}
+\contentsline {subsection}{\numberline {2.3.1}Gromacs}{16}
+\contentsline {subsection}{\numberline {2.3.2}NAMD}{17}
+\contentsline {section}{\numberline {2.4}Model teoretyczny Hummera-Szabo}{17}
+\contentsline {chapter}{\numberline {3}Cel pracy}{22}
+\contentsline {chapter}{\numberline {4}Metodologia pracy}{24}
+\contentsline {section}{\numberline {4.1}Budowa i konfiguracja klastra}{24}
+\contentsline {subsection}{\numberline {4.1.1}Instalacja biblioteki OpenMPI}{25}
+\contentsline {subsection}{\numberline {4.1.2}Instalacja biblioteki FFTW}{26}
+\contentsline {subsection}{\numberline {4.1.3}Instalacja programu Gromacs}{27}
+\contentsline {section}{\numberline {4.2}Przygotowanie struktury do symulacji}{27}
+\contentsline {section}{\numberline {4.3}R\IeC {\'o}wnowagowanie}{31}
+\contentsline {subsection}{\numberline {4.3.1}Minimalizacja energii}{31}
+\contentsline {subsection}{\numberline {4.3.2}R\IeC {\'o}wnowagowanie rozpuszczalnika}{33}
+\contentsline {subsection}{\numberline {4.3.3}Termostat}{35}
+\contentsline {subsection}{\numberline {4.3.4}Barostat}{36}
+\contentsline {subsection}{\numberline {4.3.5}R\IeC {\'o}wnowagowanie uk\IeC {\l }adu}{37}
+\contentsline {section}{\numberline {4.4}Rozci\IeC {\k a}ganie}{40}
+\contentsline {chapter}{\numberline {5}Analiza wynik\IeC {\'o}w}{45}
+\contentsline {section}{\numberline {5.1}Znajdowanie si\IeC {\l }y rozplatania}{45}
+\contentsline {section}{\numberline {5.2}Dopasowanie krzywej teoretycznej do wynik\IeC {\'o}w}{47}
+\contentsline {subsection}{\numberline {5.2.1}Mechanizm post\IeC {\k e}powania}{47}
+\contentsline {subsection}{\numberline {5.2.2}Analiza metody dopasowania}{49}
+\contentsline {section}{\numberline {5.3}Analiza wydajno\IeC {\'s}ci klastra}{54}
+\contentsline {chapter}{\numberline {6}Wnioski}{57}
+\contentsline {chapter}{Bibliografia}{60}
+\contentsline {chapter}{Dodatek A. Spis zawarto\IeC {\'s}ci do\IeC {\l }\IeC {\k a}czonej p\IeC {\l }yty CD}{63}

@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {1}{Symulacje}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Procedura}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Parametry}{4}{0}{1}
+\beamer@sectionintoc {2}{Dopasowanie}{10}{0}{2}

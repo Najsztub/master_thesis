@@ -1,0 +1,159 @@
+\begin{thebibliography}{10}
+
+\bibitem{Gromacs_manual}
+D.~van~der Spoel, E.~Lindahl, B.~Hess, A.~R. van Buuren, E.~Apol, P.~J.
+  Meulenhoff, D.~P. Tieleman, A.~L. T.~M. Sijbers, K.~A. Feenstra, R.~van
+  Drunen, H.~J.~C. Berendsen.
+\newblock Gromacs user manual version 4.5.
+\newblock {\em www.gromacs.org}, V 2011.
+
+\bibitem{marek}
+M.~Waligórski.
+\newblock Spektroskopia korelacji fluorescencji: symulacje monte carlo
+  fluorescencji dyfundujących fluoroforów. praca magisterska.
+\newblock {\em Uniwersytet im. A.Mickiewicza, Wydział Chemii}, 2007.
+
+\bibitem{parametry}
+H.~Lu, B.~Isralewitz, A.~Krammer, V.~Vogel, K.~Schulten.
+\newblock Unfolding of titin immunoglobulin domains by steered molecular
+  dynamics simulation.
+\newblock {\em Biophys Journal}, 75:662--671, 1998.
+
+\bibitem{Maruyama_1997}
+K.~Maruyama.
+\newblock Connectin, giant elastic protein of muscle.
+\newblock {\em The FASEB Journal}, 11:341--345, 1997.
+
+\bibitem{Labeit_1995}
+S.~Labeit,  B.~Kolmerer.
+\newblock Titins: Giant proteins in charge of muscle ultrastructure and
+  elasticity.
+\newblock {\em Science}, 270:293--296, 1995.
+
+\bibitem{Tit_stru}
+O.~Mayans, P.~van~der Ven, M.~Wilm, A.~Mues, P.~Young, D.~O. Furst,
+  M.~Wilmanns, M.~Gautel.
+\newblock Structural basis for activation of the titin kinase domain during
+  myofibrillogenesis.
+\newblock {\em Nature}, 395:863 -- 869, 1998.
+
+\bibitem{mechanoenz}
+E.~M. Puchner, A.~Alexandrovich, A.~L. Kho, U.~Hensen, L.~V. Schäfer,
+  B.~Brandmeier, F.~Gräter, H.~Grubmüller, H.~E. Gaub, M.~Gautel.
+\newblock Mechanoenzymatics of titin kinase.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  105:13385--13390, 2008.
+
+\bibitem{1tki}
+F.~Gräter, J.~Shen, H.~Jiang, M.~Gautel, H.~Grubmüller.
+\newblock Mechanically induced titin kinase activation studied by force-probe
+  molecular dynamics simulations.
+\newblock {\em Biophysical Journal}, 88:790 -- 804, 2005.
+
+\bibitem{Kin_geny}
+Stephan Lange, Fengqing Xiang, Andrey Yakovenko, Anna Vihola, Peter Hackman,
+  Elena Rostkova, Jakob Kristensen, Birgit Brandmeier, Gereon Franzen, Birgitta
+  Hedberg, Lars~Gunnar Gunnarsson, Simon~M. Hughes, Sylvie Marchand, Thomas
+  Sejersen, Isabelle Richard, Lars Edström, Elisabeth Ehler, Bjarne Udd,
+  Mathias Gautel.
+\newblock The kinase domain of titin controls muscle gene expression and
+  protein turnover.
+\newblock {\em Science}, 308:1599--1603, 2005.
+
+\bibitem{Fernandez}
+A.~Wiita, R.~Perez-Jimenez, K.~A. Walther, F.~Grater, B.~J. Berne, A.~Holmgren,
+  J.~M. Sanchez-Ruiz, J.~M. Fernandez.
+\newblock Probing the chemistry of thioredoxin catalysis with force.
+\newblock {\em Nature}, 450:124 -- 127, 2007.
+
+\bibitem{Carrion-Vazquez30031999}
+M.~Carrion-Vazquez, A.~F. Oberhauser, S.~B. Fowler, P.~E. Marszalek, S.~E.
+  Broedel, J.~Clarke, J.~M. Fernandez.
+\newblock Mechanical and chemical unfolding of a single protein: A comparison.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 96:3694--3699, 1999.
+
+\bibitem{Fisher1999379}
+T.~E. Fisher, A.~F. Oberhauser, M.~Carrion-Vazquez, P.~E. Marszalek, J.~M.
+  Fernandez.
+\newblock The study of protein mechanics with the atomic force microscope.
+\newblock {\em Trends in Biochemical Sciences}, 24:379 -- 384, 1999.
+
+\bibitem{Gromacs_tut}
+J.~Lemkul.
+\newblock Gromacs tutorials.
+\newblock
+  \url{http://www.bevanlab.biochem.vt.edu/Pages/Personal/justin/gmx-tutorials/%
+index.html}, V 2011.
+
+\bibitem{NAMD}
+J.~C. Phillips, R.~Braun, W.~Wang, J.~Gumbart, E.~Tajkhorshid, E.~Villa,
+  C.~Chipot, R.~D. Skeel, L.~Kale, K.~Schulten.
+\newblock Scalable molecular dynamics with namd.
+\newblock {\em Journal of Computational Chemistry}, 26:1781--1802, 2005.
+
+\bibitem{namdtut}
+Namd tutorials.
+\newblock \url{http://www.ks.uiuc.edu/Research/namd/}, V 2011.
+
+\bibitem{NAMD_sux}
+B.~Hess, C.~Kutzner, D.~van~der Spoel, E.~Lindahl.
+\newblock Gromacs 4: Algorithms for highly efficient, load-balanced, and
+  scalable molecular simulation.
+\newblock {\em Journal of Chemical Theory and Computation}, 4:435--447, 2008.
+
+\bibitem{Hummer_Szabo_2003}
+G.~Hummer,  A.~Szabo.
+\newblock Kinetics from nonequilibrium single-molecule pulling experiments.
+\newblock {\em Biophysical Journal}, 85:5--15, 2003.
+
+\bibitem{wolfram}
+Wolfram alpha.
+\newblock \url{www.wolframalpha.com}, V 2011.
+
+\bibitem{pdbdb}
+Rcsb protein data bank.
+\newblock \url{http://www.rcsb.org/}, V 2011.
+
+\bibitem{WHATIF}
+Whatif internet server.
+\newblock \url{http://swift.cmbi.ru.nl}, V 2011.
+
+\bibitem{gauss}
+S.~Harden.
+\newblock Linear data smoothing in python.
+\newblock
+  \url{http://www.swharden.com/blog/2008-11-17-linear-data-smoothing-in-python%
+/}, V 2011.
+
+\bibitem{szul}
+E.~H. Lee, J.~Hsin, M.~Sotomayor, G.~Comellas, K.~Schulten.
+\newblock Discovery through the computational microscope.
+\newblock {\em Structure}, 17:1295 -- 1306, 2009.
+
+\bibitem{Scipy}
+Scipy.
+\newblock \url{http://www.scipy.org/}, V 2011.
+
+\bibitem{lambert}
+Definicja, właściwości funkcji lamberta w.
+\newblock \url{http://en.wikipedia.org/wiki/Lambert_W_function}, V 2011.
+
+\bibitem{Tit_I91}
+S.~Improta, A.~S. Politou, A.~Pastore.
+\newblock Immunoglobulin-like modules from titin i-band: extensible components
+  of muscle elasticity.
+\newblock {\em Structure}, 4:323 -- 337, 1996.
+
+\bibitem{carr}
+M.~Carrion-Vazquez, A.~F. Oberhauser, S.~B. Fowler, P.~E. Marszalek, S.~E.
+  Broedel, J.~Clarke, J.~M. Fernandez.
+\newblock Mechanical and chemical unfolding of a single protein: A comparison.
+\newblock {\em Proceedings of the National Academy of Sciences}, 96:3694--3699,
+  1999.
+
+\bibitem{netpipe}
+Netpipe.
+\newblock \url{http://www.scl.ameslab.gov/netpipe/}, V 2011.
+
+\end{thebibliography}

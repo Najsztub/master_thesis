@@ -1,0 +1,43 @@
+pdb2gmx -f hadded.pdb -o tki.gro -ignh -his
+editconf -f tki.gro -o box.gro -box 8.8 7.8 7.6 -c
+genbox -cp box.gro -cs spc216.gro -o water.gro -p topol.top 
+
+grompp -f em -o ions -p topol -c water
+genion -s ions -o ions.gro -p topol.top -nn 29 -np 27
+grompp -f em -o em -c ions.gro -p topol
+mdrun -v -deffnm em
+
+grompp -f npt_res -o npt_res -c em.gro -p topol
+mpirun -np 16 -hostfile ./hosts mdrun_mpi -v -deffnm npt_res
+grompp -f npt -o npt -c npt_res.gro -p topol -e npt_res.edr -t npt_res.trr
+mpirun -np 16 -hostfile ./hosts mdrun_mpi -v -deffnm npt
+
+#### obrót cząsteczki tak, by końce znalazły się na osi Z
+python rot.py
+editconf -f npt_rot.gro -o npt_rot.gro -rotate 0 65.662 0
+python rot.py
+editconf -f npt_rot.gro -o npt_rot.gro -rotate -62.469 0 0
+vmd npt_rot.gro
+editconf -f npt_rot.gro -o npt_rot.gro -rotate 90 0 0
+
+trjconv -f npt_rot.gro -o npt_large_box.gro -s npt
+
+#### usunięcie z topol.top linii dot. wody i jonów
+
+editconf -f npt_large_box.gro -o npt_large_box.gro -box 7.8 8.4 18.6 -c
+genbox -cp npt_large_box.gro -cs spc216.gro -o npt_large_water.gro -p topol.top 
+grompp -f em -o npt_large_ions -p topol -c npt_large_water
+genion -s npt_large_ions -o npt_large_ions.gro -p topol.top -neutral -c 0.086
+
+
+grompp -f npt_large_res -o npt_large_res -c npt_large_ions.gro -p topol
+mpirun -np 16 -hostfile ./hosts mdrun_mpi -v -deffnm npt_large_res
+grompp -f npt_large -o npt_large -c npt_large_res.gro -p topol -e npt_large_res.edr -t npt_large_res.trr
+mpirun -np 16 -hostfile ./hosts mdrun_mpi -v -deffnm npt_large
+
+make_ndx -f npt_large -o pull.ndx
+
+cd p50
+
+grompp -f pull.mdp -o pull.tpr -p ../topol.top -c ../npt_large.gro -t ../npt_large -e ../npt_large -n ../pull.ndx -maxwarn
+mpirun -np 16  -machinefile ../hosts mdrun_mpi -v -s pull -dlb yes
